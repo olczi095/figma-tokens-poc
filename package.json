@@ -1,0 +1,21 @@
+{
+  "name": "figma-tokens-poc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olczi095/figma-tokens-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olczi095/figma-tokens-poc/issues"
+  },
+  "homepage": "https://github.com/olczi095/figma-tokens-poc#readme"
+}
