@@ -1,0 +1,27 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --zarezerwuj-primary: #eca114;
+  --zarezerwuj-secondary: #f0a031;
+  --global-2: 16;
+  --global-3: 24;
+  --global-4: 32;
+  --global-5: 40;
+  --global-6: 48;
+  --global-9: 72;
+  --global-color-grey-600: #6c757d;
+  --global-color-grey-700: #505050;
+  --global-color-grey-800: #4e4e4e;
+  --global-color-grey-900: #303030;
+  --global-font-base: Medium 15/25 Ubuntu;
+  --global-font-weight-medium: 400;
+  --global-font-weight-strong: 700;
+  --global-border-primary: 1 solid #000;
+  --global-strong: 700;
+  --global-sm: 4;
+  --global-md: 8;
+  --global-lg: 16;
+  --global-xl: 32;
+}
